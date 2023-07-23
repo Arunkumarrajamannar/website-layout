@@ -1,0 +1,453 @@
+*{
+    padding:0 ;
+    margin:0 ;
+    box-sizing: border-box;
+}
+
+.container{
+    width:90%;
+    margin:0 auto;
+
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col_1{
+    width: 8.33%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_2{
+    width: 16.66%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_3{
+    width: 25%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_4{
+    width: 33.33%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_5{
+    width: 41.66%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_6{
+    width: 50%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_7{
+    width: 58.33%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_8{
+    width: 66.66%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_9{
+    width: 75%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_10{
+    width: 83.33%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_11{
+    width: 91.66%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+.col_12{
+    width: 100%;
+    padding:0 15px;
+    flex:0 0 auto;
+}
+
+/* header starts here */
+
+header{
+    background-color: black;
+    padding:50px 0;
+}
+
+.logo{
+    background: yellow;
+    height: 50px;
+    width: auto;
+}
+
+.navbar{
+    background: yellow;
+    height: 50px;
+    width: auto;
+}
+
+.btn{
+    background: yellow;
+    height: 50px;
+    width: auto;
+}
+/* header ends here */
+
+/* screen starts here */
+.one{
+    background-color: yellow;
+    height: 400px;
+    width: 100%;
+}
+
+.btn_1{
+    background-color: black;
+    height: 50px;
+    width: 250px;
+    margin-top: 250px;  
+}
+
+/* .box_1{
+    background-color: black;
+    height:50px;
+    width:50px;
+    margin-left: 75px;
+    margin-top: 75px;
+    padding-left: 50px;
+    padding-top: 50px;
+
+} */
+/* screen ends here */
+
+.section_2{
+    background-color: black;
+    height: 550px;
+    width: 100%;
+}
+
+.sun_1{
+    background-color: yellow;
+    height:450px;
+    width: 690px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.sun_2{
+    background-color: yellow;
+    height: 450px;
+    width: 690px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.section_3{
+    background-color: yellow;
+    height: 350px;
+    width: 100%;
+
+}
+
+.student_1{
+    background-color: black;
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.student_2{
+    background-color: black;
+    height:150px;
+    width:200px;
+    margin-top:50px;
+}
+
+.student_3{
+    background-color: black;
+    height: 150px;
+    width: 200px;
+    margin-top: 50px;
+}
+
+.student_4{
+    background-color: black;
+    height: 150px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.section_4{
+    background-color: black;
+    height: 450px;
+    width: 100%;
+
+
+}
+
+.choose_1{
+    background-color: yellow;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.choose_2{
+    background-color: yellow;
+    height: 300px;
+    width: auto;
+    margin-top: 70px;
+}
+
+.choose_3{
+    background-color: yellow;
+    height: 300px;
+    width: auto;
+    margin-top: 70px;
+}
+
+.choose_4{
+    background-color: yellow;
+    height: 300px;
+    width: auto;
+    margin-top: 70px;
+}
+
+.section_5{
+    background-color: yellow;
+    height: 400px;
+    width: 100%;
+}
+
+.lorem_1{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_2{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_3{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_4{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_5{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_6{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_7{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_8{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_9{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_10{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_11{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.lorem_12{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.section_6{
+    background-color: black;
+    height: 150px;
+    width: auto;
+}
+
+.popular{
+    background-color: yellow;
+    height: 120px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.section_7{
+    background-color: black;
+    height: 450px;
+    width: auto;
+}
+
+.courses_1{
+    background-color: yellow;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.courses_2{
+    background-color: yellow;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.courses_3{
+    background-color: yellow;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.section_8{
+    background-color: yellow;
+    height: 450px;
+    width: auto;
+}
+
+.walt_1{
+    background-color: black;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.walt_2{
+    background-color: black;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.walt_3{
+    background-color: black;
+    height: 350px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.section_9{
+    background-color: black;
+    height: 450px;
+    width: auto;
+}
+
+.tor_1{
+    background-color:yellow ;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.tor_2{
+    background-color:yellow ;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.tor_3{
+    background-color:yellow ;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.tor_4{
+    background-color:yellow ;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.section_10{
+    background-color: yellow;
+    height: 200px;
+    width: auto;
+
+}
+
+.final_1{
+    background-color: black;
+    height: 150px;
+    width: auto;
+    margin-top: 25px;
+
+}
+
+.final_2{
+    background-color: black;
+    height: 150px;
+    width: auto;
+    margin-top: 25px;
+
+}
+
+
+
+
+
